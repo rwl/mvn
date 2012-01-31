@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.roo</groupId>
+  <artifactId>org.springframework.roo.root</artifactId>
+  <version>1.2.1.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120130.232628</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120130232628</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.1.BUILD-20120130.232628-1</value>
+        <updated>20120130232628</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.2.1.BUILD-20120130.232628-1</value>
+        <updated>20120130232628</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
